@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "test": "vitest run"
   },
   "dependencies": {
     "prop-types": "^15.8.1",
